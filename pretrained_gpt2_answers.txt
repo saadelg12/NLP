@@ -1,0 +1,200 @@
+Q: Where do Sherlock Holmes and Dr. Watson live?
+A: ”“In a very old, very bad, very shabby little house called the Baker Street Station.”“And what do they do there?”“They get their information from the station-master and from the post-master.”“And how do they get their information?”“From the post-master.”“How did you get it?”“Well, I was walking round the corner on my
+Expected:221B Baker Street, London.
+------------------------------------------------------------
+Q: Who is Sherlock Holmes' loyal friend and chronicler?
+A: ”“Well, he’s my friend, but I don’t know him very well. He is a little retiring, and I don’t know that he would want me to go out of my way to meet him.”“But you have never met him?”“I have not.”“Well, then, how do you know that he is a friend?”“Well, I have heard of him
+Expected:Dr. John H. Watson.
+------------------------------------------------------------
+Q: Who is considered 'The Woman' by Sherlock Holmes?
+A: ”“My dear fellow, there are many, many       who know her intimately. She is a very remarkable woman, and       I have never met a more remarkable woman. She is a woman of       extraordinary strength, and of extraordinary intelligence. She is       of a fine, alert, and expressive countenance, and she is       one of the very few women
+Expected:Irene Adler.
+------------------------------------------------------------
+Q: Which story features the Red-Headed League?
+A: ”“The very worst that ever was done in the county.”“You are not joking, then?”“I am.”“How do you know that?”“Because I was there when the lady was arrested.”“So I was. And yet, if you will be so good as to go down to the station, I shall be happy to look into this matter.”“But I cannot do
+Expected:The Adventure of the Red-Headed League.
+------------------------------------------------------------
+Q: What is the primary occupation of Sherlock Holmes?
+A: ”“I am a professor of criminology at the University of London.”“But how long have you been a professor?”“I have been a lecturer for five years, and my first ten years were devoted entirely to the study of crime.”“How long have you been an active member of the faculty?”“I have been a member since I was a lecturer, and have acted as secretary for seven years.”
+Expected:Consulting detective.
+------------------------------------------------------------
+Q: Who is Sherlock Holmes' arch-nemesis?
+A: ”“That is a very good question. I cannot say. I should say that it is a question which I have often wished to ask myself, and that I am continually on the verge of discovering the answers to it.”“But how?”“I cannot tell you. It is so vague, and yet so certain, that I cannot help thinking that it may be of some help to me.”“And how?”“I
+Expected:Professor James Moriarty.
+------------------------------------------------------------
+Q: What musical instrument does Sherlock Holmes play?
+A: ”“I play a violin.”“But he can play a harp, and you can play a harp, and he can play a harp, and you can play a harp, and he can play a harp, and you can play a harp, and he can play a harp, and you can play a harp, and he can play a harp, and you can play a harp, and he can play a harp
+Expected:The violin.
+------------------------------------------------------------
+Q: What is the name of Sherlock Holmes' elder brother?
+A: ” I asked.“It is Jonathan. He is a very small, gentle-spoken man, but a gentleman. He has a very large estate, and he has given us a large sum.”“And why?”“Because we have been good enough to give him a large share of the property. He is a man of good character, and I am sure that you will be pleased to know that he has no grudge against us.”�
+Expected:Mycroft Holmes.
+------------------------------------------------------------
+Q: What is the blue gemstone found inside a Christmas goose called?
+A: ”“It is a yellow one.”“And it is found in the same goose as the blue gem?”“Yes, it is.”“How can you be certain that it is the same one?”“Because it was not found in the same goose as the blue gem.”“You have no evidence?”“Not a shred of it.”“It is a fact!”
+Expected:The Blue Carbuncle.
+------------------------------------------------------------
+Q: What residue does Holmes often analyze to identify smokers?
+A: ”“Possibly the smoke.”“Then I understand that the smoke of the cigarette is not a common material?”“No, it is not.”“But the cigar-ends are.”“No.”“The cigar-ends are a distinctively European material.”“But the cigar-ends are a common material?”“Certainly.”“And the tobacco?”
+Expected:Tobacco ash.
+------------------------------------------------------------
+Q: What tactic besides observation does Holmes often use to gather information?
+A: ”“I think that I have already mentioned it. The fact is, Watson, that you are a man of little taste, and that you have a special faculty for picking out details. As I have said, your tastes are generally superficial. But this particular detail which I am interested in is very important. You will observe that it is not the size of the shoe, but the colour of the sole which is of importance.”“What colour?”“Well
+Expected:Disguise.
+------------------------------------------------------------
+Q: What was the profession of Dr. John Watson?
+A: ”“He was a medical man,” said Holmes.“Was he ever a Freemason?”“No, he never was.”“Well, then, why should he be so anxious to know all about the Freemasons?”“I have no idea.”“Then it must be some mystery connected with Freemasonry.”“It is not so mysterious as you suppose. I have no doubt that you have
+Expected:Doctor.
+------------------------------------------------------------
+Q: What kind of marks on the ground does Holmes often study to track people?
+A: ”“He does so, but seldom with the same intensity. In this case, I should say that he had no difficulty in tracing the man from the moment that he was seated.”“But how did he know that?”“Because his head was tilted so that the head of the man was facing the window. It is not a very common position, Watson, and yet this was it.”“That was the point, then, of the
+Expected:Footprints.
+------------------------------------------------------------
+Q: Who is the landlady of 221B Baker Street?
+A: ”“Mrs. Brown, of 221B Baker Street.”“Yes, Mrs. Brown, the landlady of 221B Baker Street.”“Yes, you are right, I am glad to hear it.”“How is the kitchen?”“It is well cleaned, though it is rather late for the dinner.”“How is the dining-room?”“Very clean, sir.”
+Expected:Mrs. Hudson.
+------------------------------------------------------------
+Q: What substance did Sherlock Holmes sometimes use to stimulate his mind?
+A: ”“I think that I have already given you an indication of the kind. I am indebted to you for a very interesting study of the art of deduction.”“I am indebted also to you for a very interesting study of the art of memory. You have, I am sure, some knowledge of the subject, and I am glad that you have taken the trouble to tell me all that you know.”“In the first place,” said I,
+Expected:Cocaine.
+------------------------------------------------------------
+Q: Who is the Scotland Yard detective that often consults Holmes?
+A: ”“Well, I don’t know him,” said the old man, “but he is a very excellent detective. He is very good at his work.”“Well, how can you say that?”“Well, you’ll find that it is very difficult to prove that he is not.”“Well, well, then, you’ll find that it is also very difficult to prove that he is
+Expected:Inspector Lestrade (Gregson or Bradstreet also acceptable).
+------------------------------------------------------------
+Q: What warning arrives as envelopes containing dried orange seeds?
+A: ”“It is a very common occurrence,” said Sherlock Holmes, laughing. “I have seen them in the back of the mail-bag of a lady who has been away from home for some weeks. It is the worst case of them all. I suppose that you have no objection to my having you both examined?”“I think that it is essential that I should have the information before I start.”“No, sir; I have no
+Expected:Five orange pips.
+------------------------------------------------------------
+Q: What is the bog near Baskerville Hall called?
+A: ”“The bog at Baskerville Hall.”“And you have seen the same in every direction?”“Yes.”“You have no doubt, then, that it is the same place?”“No, I have not.”“But you have seen the same object?”“Yes.”“The object?”“The same.”“Then it must be
+Expected:The Grimpen Mire.
+------------------------------------------------------------
+Q: Which London newspaper does Holmes frequently read?
+A: ”“Well, I suppose that the City-Journal of the Times?”“No, no.”“How about the Morning Chronicle of the City?”“I don’t know.”“Do you read any other papers?”“Not one.”“And you are a busy man?”“I have been for years.”“I am sure that you do.�
+Expected:The Times.
+------------------------------------------------------------
+Q: What kind of drawings form the code that Holmes deciphers on walls and paper?
+A: ”“I suppose that I could tell you,” said he. “There are some of them, of course, that are of a peculiar character. I call them ‘débris-drawings’ because they are drawn up in a way which gives them the appearance of being torn or torn apart.’“Oh, yes, that is very interesting,” said I. “And yet they are of the same sort as those in which
+Expected:Dancing stick figures.
+------------------------------------------------------------
+Q: What kind of jewel is set in the damaged coronet handled by a banker?
+A: ”“It is a fine emerald, very rare, and very valuable.”“And what was the banker’s name?”“It is unknown.”“How about the date?”“It was on the 7th of last month.”“Did you observe any change in the coronet?”“No, I have not.”“You are a careful man, are you not
+Expected:Beryls.
+------------------------------------------------------------
+Q: What combat sport is Holmes proficient in?
+A: ”“In shooting.”“How about the fighting?”“Well, I've done it in the States, and I've been in the Crimean War.”“You're a professional.”“I am.”“Then let me ask you, in the first place, who you are and what you do?”“I am a private detective.”“And who are you?”�
+Expected:Boxing.
+------------------------------------------------------------
+Q: What does Sherlock Holmes keep in his Persian slipper?
+A: ”“It is a case of a man who has been beaten so much that he is driven to suicide. His pockets are full of cash, and he is desperate for it. He has, as you may imagine, a dozen different methods of killing himself, and he is not content with one. He has, as you may imagine, a dozen different weapons, and he is not content with one. He has, as you may imagine, a dozen different ways of injuring himself, and
+Expected:Pipe tobacco.
+------------------------------------------------------------
+Q: In which room at 221B do most client interviews happen?
+A: ”“Well, I don’t know. I have no idea.”“Then you must not know, for it is a secret which is to be kept.”“It is a very serious matter, and I would not have it known.”“Then you will tell me.”“Well, I must tell you. I have seen the gentleman who is to be interviewed. He is a gentleman of fifty. He is a
+Expected:The sitting-room.
+------------------------------------------------------------
+Q: What important document goes missing from the Foreign Office in one case?
+A: ”“A note.”“A note?”“A note.”“What do you think of that?”“It is not very popular.”“Then we must take it.”“It is an essential part of our investigation. It may be the clue.”“It is not.”“But if it is so, it is essential. If we can only find out who
+Expected:A secret naval treaty.
+------------------------------------------------------------
+Q: What hot drink is often served at Baker Street?
+A: ”“I have no doubt that it is the stout.”“Very well. I think that we must take our leave of the gentlemen, and I shall have the pleasure of addressing your name to in the morning.”“I shall be happy to oblige you,” said he, as we stepped out into the sunshine. “If you would be so good as to step into the cab with me I will give you a short sketch of the circumstances
+Expected:Tea.
+------------------------------------------------------------
+Q: What object ties Irene Adler to a scandal with a European king?
+A: ”“I suppose that you are aware that there is a brother and sister of mine, and that they have a house in Norwood. They live at the present address.”“Well, you must have heard of them. They are very rich, and they have a considerable estate.”“Oh, yes; they have a great house.”“And a brother?”“Yes.”“Is there any connection between them
+Expected:A compromising photograph.
+------------------------------------------------------------
+Q: What weapon does Dr. Watson often carry?
+A: ”“A revolver.”“You have not yet seen the revolver, then?”“No.”“Well, then, you are very much mistaken if you say that I have never seen it. I have seen it, and I have had occasion to examine it.”“I see. That is certainly a very remarkable statement. It is not to be taken as a mere statement of fact. It is an absolute and absolute denial.
+Expected:A revolver.
+------------------------------------------------------------
+Q: In which country did Dr. Watson serve as an army doctor?
+A: ”“He was a Colonel of the South African Infantry.”“And how long did he serve in that regiment?”“Twenty-two years.”“Did he ever leave it?”“No; he was a faithful and devoted servant.”“He was a tall, thin, strong-looking man, and he had a very peculiar air of suavity and stoicism about him. He was never irritable,
+Expected:Afghanistan.
+------------------------------------------------------------
+Q: What is the missing racehorse’s name in the Dartmoor case?
+A: ”“Pennyroyal.”“I am sorry to hear that. But I would not wish to take the trouble to inquire further.”“It is not the very difficult matter that we are dealing with,” said Holmes, with an amused twinkle in his eye. “I am sure that it is not very difficult, and yet I should like to hear the details.”“The horse,” said I, “
+Expected:Silver Blaze.
+------------------------------------------------------------
+Q: What London vehicle do Holmes and Watson frequently hire for short trips?
+A: ”“Yes, sir, we are always a little late to the station.”“But why?”“Well, it is a pity, Mr. Holmes, that we have to wait. It would be better to drive.”“Why?”“Because you can see the station better from the road.”“I see. Well, then, if you could just go out with us to the station, we might be
+Expected:A hansom cab.
+------------------------------------------------------------
+Q: In which English county do Holmes and Watson investigate a deadly household powder?
+A: ”“In Camberwell.”“Good! Then, Watson, you will step into my little box, and we shall begin our investigation.”The door of the study opened and two tall, dark, well-dressed men entered.“What can I do for you, Mr. Holmes?”“I have heard of your having a case of a different sort.”“That is what I want to hear. Come in,
+Expected:Cornwall.
+------------------------------------------------------------
+Q: Where does Holmes retire?
+A: ”“I don’t know.”“When you are at home?”“No, I go to bed at nine.”“It is a great inconvenience to you, Watson, when you are away from home.”“But I am a good woman. I take it that you would not mind me doing so?”“Certainly not.”“Then I shall go and arrange my affairs.”
+Expected:Sussex Downs.
+------------------------------------------------------------
+Q: What does Watson call Holmes’ method of reasoning?
+A: ”“It is to say that he is never satisfied until he has got it right.”“You think so?”“Yes, I do.”“You think that the reason why he never gets it right is because he is not himself a perfect thinker?”“Exactly.”“So he is always at a loss.”“Exactly.”“And yet it is his very nature to be in
+Expected:“The science of deduction and analysis.”
+------------------------------------------------------------
+Q: What is the name of the street‑boy network Holmes employs?
+A: ”“A branch of the Street Directory,” said he.“What does the Street Directory mean?”“It is a list of every street in London, with the addresses of the houses which correspond to them.”“And this young man is a member of that network?”“Yes; he was the first to call.”“Have you any idea of his identity?”“No; I don’
+Expected:The Baker Street Irregulars.
+------------------------------------------------------------
+Q: What London club is Mycroft Holmes most associated with?
+A: ”“I can give you no definite answer.”“You may say that the house is not a very congenial one, but that is the way it has been for some years. The other houses are very different. Mycroft was once in charge of one of them, but it was a small one and he was forced to sell it in order to give me a better starting-point.”“I see. Well, then, you must admit that it
+Expected:The Diogenes Club.
+------------------------------------------------------------
+Q: What is the name of the ancient document recited by Reginald Musgrave?
+A: ”“The       Ecclesiastical Handbook, or Ecclesiastical Musgrave's       Handbook.”“May I have it?”“No, you will find it upon the table.”“Ah! you are not joking, are you? You are not       joking!”“What do you mean?”“I am going to ask you a very personal question
+Expected:The Musgrave Ritual.
+------------------------------------------------------------
+Q: What injury does Victor Hatherley suffer during his adventure?
+A: ”“He has been struck by a fall.”“I see. He was a very active man.”“And you think he is dead?”“I think not.”“Well, if he is dead, what do you think of the woman?”“I do not know.”“But I should not wish her to be dead.”“I think she is an angel.”
+Expected:Loss of a thumb.
+------------------------------------------------------------
+Q: On what moor do the Baskerville events occur?
+A: ”“In the Baskerville Shire.”“But why, then, did he not go to the Shire?”“Because he was very much in love with the girl, and was in some way attracted by her beauty.”“Ah, you are right,” said Holmes, smiling. “I must thank you, for it was a most painful experience for me.”“I have had no other experience of
+Expected:Dartmoor.
+------------------------------------------------------------
+Q: What substance is used to make an animal appear ghostly?
+A: ”“Well,” said I, “it is a question which has been on my mind lately. I have no doubt that the old man has a very strong influence over the girl.”“Yes, I think that she is his daughter,” said he, “but I have no reason to believe that she is his wife.”“You are not convinced?”“Well, I don’t know.”
+Expected:Phosphorus.
+------------------------------------------------------------
+Q: In which county is Dartmoor located?
+A: ”“In the north-west corner,” said he.“And where is the nearest railway station?”“The nearest station is in Woolwich, in the Surrey Downs.”“I see. But the station is not far.”“It is just a quarter of a mile away.”“Ah! that is interesting. Now, tell me about the house.”“It is a small, neat,
+Expected:Devonshire.
+------------------------------------------------------------
+Q: What animal do Holmes and Watson sometimes use to track a scent?
+A: ”“I don’t know,” said I. “I thought that the dog would have been used for that.”“Ah! it is very likely,” he answered, “that the dog was on the track.”“And when did you first see it?”“I had just finished breakfast when I heard it.”“Was it just before you left the house?”“Yes
+Expected:A dog.
+------------------------------------------------------------
+Q: What scientific field is Holmes notably skilled in?
+A: ”“He is, I believe, a naturalist, and that is his specialty. He has a curious, instinctive, and almost animal instinct. He has a keen perception of the habits and habits of his own kind, which, as I have remarked, are the most peculiar and unique in the animal world. His naturalist instincts are very strong, and he has, as you may imagine, a remarkable ability for the observation of the habits of others. He is a good observer
+Expected:Chemistry.
+------------------------------------------------------------
+Q: Which police force does Holmes frequently assist?
+A: ”“The police force of Baker Street.”“What do you mean by that?”“You are a professional criminal investigator, Watson. You have the keenest interest in crime. I am aware that the case of the Baker Street murder is one which is of interest to every professional criminal investigator in England.”“Yes, indeed.”“And that you have been able to trace the murderer?”“I have no doubt
+Expected:Scotland Yard.
+------------------------------------------------------------
+Q: What railway timetable does Holmes often consult?
+A: ”“It is a commonplace observation,” said he, “that the intervals between the journeys of a man’s life are not infrequent. It is not a very remarkable fact, but it is certainly an interesting one. Suppose for example that, in an early morning, I am driving from Waterloo to Reading, and am suddenly overtaken by a carriage which is a hundred yards behind me. I look round me, and the carriage is on the other side of me
+Expected:Bradshaw's.
+------------------------------------------------------------
+Q: What supernatural creature is suspected in a case involving a South American family?
+A: ”“A mongoose.”“Then, I presume, it is a very formidable creature?”“Yes, sir.”“And it is not to be trifled with?”“Not at all.”“I see. Well, then, you will have the pleasure of seeing it. I have been told that you have a small collection of old books in your library. It is my duty to present them to
+Expected:A vampire.
+------------------------------------------------------------
+Q: What quick message service does Holmes often use?
+A: ”“He never lets it go to waste. He has an idea of what he wants and always keeps it on his mind. But when I say that he has an idea of what he wants, it must be that he has an idea of what he is going to do.”“But he does not tell you what he wants?”“No; he only tells you what he thinks it will be worth. It is very rare that a man can tell you
+Expected:Telegrams.
+------------------------------------------------------------
+Q: What handheld tool does Holmes use to inspect tiny clues?
+A: ”“His eyes are very sensitive. He will not look at a small object unless it is absolutely necessary. He is a very good observer.”“But how do you know that the key to this room is in the locked cabinet?”“I have been examining the cabinet myself.”“How is it that you know that the key is there?”“Because I have seen the key on the shelf.”“Then it
+Expected:A magnifying glass.
+------------------------------------------------------------
+Q: In which city do most of Holmes's cases take place?
+A: ”“I have no doubt that London.”“Where is the nearest police-station?”“Not a very distant one,” I answered. “There is the great central police-station, and then there is the county police-station, and finally the Metropolitan Police Station.”“But you can see the train from here.”“Yes, we can see it.”“And you have heard the news
+Expected:London.
+------------------------------------------------------------
+Q: After retirement, what hobby does Holmes pursue?
+A: ”“Oh, it is a curious matter. I have done a little of every sort of writing. I write a history of the Crimean War, and I have written a few little treatises upon various subjects. I have been a schoolmaster and a surgeon, and have now taken over a small practice in Kensington, which is a very popular one, and is a little above the market price.”“You have done the best that you can.”“
+Expected:Beekeeping.
+------------------------------------------------------------
