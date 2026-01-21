@@ -1,0 +1,200 @@
+Q: Where do Sherlock Holmes and Dr. Watson live?
+A: 221B Baker Street
+Expected:221B Baker Street, London.
+------------------------------------------------------------
+Q: Who is Sherlock Holmes' loyal friend and chronicler?
+A: Watson
+Expected:Dr. John H. Watson.
+------------------------------------------------------------
+Q: Who is considered 'The Woman' by Sherlock Holmes?
+A: Irene Adler
+Expected:Irene Adler.
+------------------------------------------------------------
+Q: Which story features the Red-Headed League?
+A: The Red-Headed League
+Expected:The Adventure of the Red-Headed League.
+------------------------------------------------------------
+Q: What is the primary occupation of Sherlock Holmes?
+A: detective
+Expected:Consulting detective.
+------------------------------------------------------------
+Q: Who is Sherlock Holmes' arch-nemesis?
+A: Milverton
+Expected:Professor James Moriarty.
+------------------------------------------------------------
+Q: What musical instrument does Sherlock Holmes play?
+A: the violin
+Expected:The violin.
+------------------------------------------------------------
+Q: What is the name of Sherlock Holmes' elder brother?
+A: Mycroft Holmes
+Expected:Mycroft Holmes.
+------------------------------------------------------------
+Q: What is the blue gemstone found inside a Christmas goose called?
+A: the blue carbuncle
+Expected:The Blue Carbuncle.
+------------------------------------------------------------
+Q: What residue does Holmes often analyze to identify smokers?
+A: cigarettes
+Expected:Tobacco ash.
+------------------------------------------------------------
+Q: What tactic besides observation does Holmes often use to gather information?
+A: deduction
+Expected:Disguise.
+------------------------------------------------------------
+Q: What was the profession of Dr. John Watson?
+A: medical man
+Expected:Doctor.
+------------------------------------------------------------
+Q: What kind of marks on the ground does Holmes often study to track people?
+A: Holmes often studies the marks on the ground to track people
+Expected:Footprints.
+------------------------------------------------------------
+Q: Who is the landlady of 221B Baker Street?
+A: Mrs. Hudson
+Expected:Mrs. Hudson.
+------------------------------------------------------------
+Q: What substance did Sherlock Holmes sometimes use to stimulate his mind?
+A: cocaine
+Expected:Cocaine.
+------------------------------------------------------------
+Q: Who is the Scotland Yard detective that often consults Holmes?
+A: Lestrade
+Expected:Inspector Lestrade (Gregson or Bradstreet also acceptable).
+------------------------------------------------------------
+Q: What warning arrives as envelopes containing dried orange seeds?
+A: K. K. K
+Expected:Five orange pips.
+------------------------------------------------------------
+Q: What is the bog near Baskerville Hall called?
+A: Grimpen Mire
+Expected:The Grimpen Mire.
+------------------------------------------------------------
+Q: Which London newspaper does Holmes frequently read?
+A: The Daily Telegraph
+Expected:The Times.
+------------------------------------------------------------
+Q: What kind of drawings form the code that Holmes deciphers on walls and paper?
+A: dancing men
+Expected:Dancing stick figures.
+------------------------------------------------------------
+Q: What kind of jewel is set in the damaged coronet handled by a banker?
+A: The coronet handled by a banker is a noiseless lock
+Expected:Beryls.
+------------------------------------------------------------
+Q: What combat sport is Holmes proficient in?
+A: boxing
+Expected:Boxing.
+------------------------------------------------------------
+Q: What does Sherlock Holmes keep in his Persian slipper?
+A: tobacco
+Expected:Pipe tobacco.
+------------------------------------------------------------
+Q: In which room at 221B do most client interviews happen?
+A: 221B Baker Street
+Expected:The sitting-room.
+------------------------------------------------------------
+Q: What important document goes missing from the Foreign Office in one case?
+A: The important document that goes missing from the Foreign Office in one case is the letter
+Expected:A secret naval treaty.
+------------------------------------------------------------
+Q: What hot drink is often served at Baker Street?
+A: water
+Expected:Tea.
+------------------------------------------------------------
+Q: What object ties Irene Adler to a scandal with a European king?
+A: the photograph
+Expected:A compromising photograph.
+------------------------------------------------------------
+Q: What weapon does Dr. Watson often carry?
+A: Watson often carries a revolver
+Expected:A revolver.
+------------------------------------------------------------
+Q: In which country did Dr. Watson serve as an army doctor?
+A: India
+Expected:Afghanistan.
+------------------------------------------------------------
+Q: What is the missing racehorse’s name in the Dartmoor case?
+A: Silver Blaze
+Expected:Silver Blaze.
+------------------------------------------------------------
+Q: What London vehicle do Holmes and Watson frequently hire for short trips?
+A: A hansom
+Expected:A hansom cab.
+------------------------------------------------------------
+Q: In which English county do Holmes and Watson investigate a deadly household powder?
+A: Norfolk
+Expected:Cornwall.
+------------------------------------------------------------
+Q: Where does Holmes retire?
+A: Holmes retires to his lodgings at 221B Baker Street
+Expected:Sussex Downs.
+------------------------------------------------------------
+Q: What does Watson call Holmes’ method of reasoning?
+A: deduction
+Expected:“The science of deduction and analysis.”
+------------------------------------------------------------
+Q: What is the name of the street‑boy network Holmes employs?
+A: No. 131, Pitt Street, Kensington
+Expected:The Baker Street Irregulars.
+------------------------------------------------------------
+Q: What London club is Mycroft Holmes most associated with?
+A: The Diogenes Club
+Expected:The Diogenes Club.
+------------------------------------------------------------
+Q: What is the name of the ancient document recited by Reginald Musgrave?
+A: The Musgrave Ritual
+Expected:The Musgrave Ritual.
+------------------------------------------------------------
+Q: What injury does Victor Hatherley suffer during his adventure?
+A: His head was injured
+Expected:Loss of a thumb.
+------------------------------------------------------------
+Q: On what moor do the Baskerville events occur?
+A: Baskerville moor
+Expected:Dartmoor.
+------------------------------------------------------------
+Q: What substance is used to make an animal appear ghostly?
+A: Phosphorus
+Expected:Phosphorus.
+------------------------------------------------------------
+Q: In which county is Dartmoor located?
+A: Dartmoor
+Expected:Devonshire.
+------------------------------------------------------------
+Q: What animal do Holmes and Watson sometimes use to track a scent?
+A: A dog
+Expected:A dog.
+------------------------------------------------------------
+Q: What scientific field is Holmes notably skilled in?
+A: science
+Expected:Chemistry.
+------------------------------------------------------------
+Q: Which police force does Holmes frequently assist?
+A: Scotland Yard
+Expected:Scotland Yard.
+------------------------------------------------------------
+Q: What railway timetable does Holmes often consult?
+A: The 9:13 train
+Expected:Bradshaw's.
+------------------------------------------------------------
+Q: What supernatural creature is suspected in a case involving a South American family?
+A: hell-hound
+Expected:A vampire.
+------------------------------------------------------------
+Q: What quick message service does Holmes often use?
+A: Holmes often uses a quick message service called "telegram
+Expected:Telegrams.
+------------------------------------------------------------
+Q: What handheld tool does Holmes use to inspect tiny clues?
+A: A hypodermic syringe
+Expected:A magnifying glass.
+------------------------------------------------------------
+Q: In which city do most of Holmes's cases take place?
+A: Baker Street
+Expected:London.
+------------------------------------------------------------
+Q: After retirement, what hobby does Holmes pursue?
+A: He pursues the hobby of opening safes
+Expected:Beekeeping.
+------------------------------------------------------------
