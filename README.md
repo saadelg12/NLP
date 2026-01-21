@@ -6,6 +6,7 @@ Ce dépôt contient les **travaux pratiques (TP)** réalisés dans le cadre du c
 
 - Les livrables fournis correspondent **uniquement aux résultats finaux**, sous forme de **rapports au format Jupyter Notebook (`.ipynb`)**.
 - Les notebooks contiennent les **analyses**, **résultats expérimentaux** et **conclusions** demandés dans le cadre des TP.
+- **Ces travaux peuvent contenir des erreurs**, tant sur le plan conceptuel que méthodologique ou expérimental, et ne doivent en aucun cas être considérés comme des solutions officielles ou exhaustives.
 
 ⚠️ **Les données / jeux de données utilisés ne sont pas inclus dans ce dépôt.**  
 Pour toute demande concernant les datasets ou les fichiers nécessaires à la reproduction des expériences, merci de **me contacter directement**.
